@@ -7,3 +7,9 @@ sentence-transformers
 faiss-cpu
 chromadb
 langchain-openai
+langgraph
+langsmith
+langchain_groq
+arxiv
+wikipedia
+langchain-text-splitters
